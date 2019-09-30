@@ -10,18 +10,18 @@ Diego Medina
 
 Requirements  
 -----------------  
-Pi  
+Pi:  
   python3  
   gpiozero  
   AWSIoTPythonSDK  
   pylint testing  
   
-AWS  
+AWS:  
   cognito  
   s3 bucket  
   iot platform  
 
-WebApp  
+WebApp:  
   nodejs  
   reactjs  
   nodemon  
@@ -32,7 +32,7 @@ WebApp
   jest testing  
   docz documentation  
 
-Tools used  
+Tools used:  
   Scrum Agile methodology (Documentation, Testing)    
   Slack  
   Toggl  
