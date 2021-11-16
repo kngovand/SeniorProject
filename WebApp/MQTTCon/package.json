@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "aws-iot-device-sdk": "^2.2.1",
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.814.0",
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "^4.16.4",
